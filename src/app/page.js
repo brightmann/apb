@@ -48,11 +48,6 @@ export default function Page() {
           </Link>
         </div>
       </div>
-      <Script
-        data-goatcounter="https://falcon71181.goatcounter.com/count"
-        async
-        src="//gc.zgo.at/count.js"
-      ></Script>
     </>
   );
 }
