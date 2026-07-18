@@ -1,5 +1,5 @@
 ---
-date: '14/06/2026'
+date: '14/06/2026 19:41'
 title: 稀奇古怪的中国经济
 image: https://miro.medium.com/v2/resize:fit:828/format:webp/1*OohqW5DGh9CQS4hLY5FXzA.png
 description: 这是一篇文章
